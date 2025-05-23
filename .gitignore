@@ -47,3 +47,6 @@ test_venv/
 
 # PyCharm env
 .idea
+
+# data files and folders
+Datasets/

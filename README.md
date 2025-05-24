@@ -2,9 +2,9 @@
 
 ## Notebooks: 
 
-- [vo_test.ipynb]() – preprocess data for `DecisionTreeClassifier` training (it is necessary to have ground-truth data);
-- [merging_gdfs_for_fit.ipynb]() - merging all GeoDataFrames for model fittng and further training;
-- [tashkent.ipynb]() - preprocess data for Toshkent city (Uzbekistan) and prediction of residential/non-residential type of buildings.
+- [vo_test.ipynb](https://github.com/alexandermorozzov/buildings_classification/blob/main/vo_test.ipynb) – preprocess data for `DecisionTreeClassifier` training (it is necessary to have ground-truth data);
+- [merging_gdfs_for_fit.ipynb](https://github.com/alexandermorozzov/buildings_classification/blob/main/merging_gdfs_for_fit.ipynb) - merging all GeoDataFrames for model fittng and further training;
+- [tashkent.ipynb](https://github.com/alexandermorozzov/buildings_classification/blob/main/tashkent.ipynb) - preprocess data for Toshkent city (Uzbekistan) and prediction of residential/non-residential type of buildings.
 
 ## Reference
 
